@@ -17,4 +17,4 @@ Simple and lightweight panel for Reseller SSH based on Webmin API, 100% free.
 * Perl XML::Parser Module (automatic installed with webmin)
 
 ## Installations
-Script installation can found at <a href="http://github.com/AutoScriptDebian">AutoScriptDebian</a>
+Script installation can found at other repository <a href="http://github.com/vpsiix/AutoScriptDebian">AutoScriptDebian</a>
