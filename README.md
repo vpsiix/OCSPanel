@@ -17,4 +17,31 @@ Simple and lightweight panel for Reseller SSH based on Webmin API, 100% free.
 * Perl XML::Parser Module (automatic installed with webmin)
 
 ## Installations
-Script installation can found at other repository <a href="http://github.com/vpsiix/AutoScriptDebian">AutoScriptDebian</a>
+
+`
+apt-get install git
+`
+
+`
+cd /home/vps/public_html
+`
+
+`
+git init
+`
+
+`
+git remote add origin https://github.com/vpsiix/OCSPanel.git
+`
+
+`
+git pull origin master
+`
+
+`
+cd
+`
+
+After installation complete, open browser and open **http://your-ip-vps:nginx-port** and complete required database information. For security after the installation process complete delete the **installation** folder, run command : `rm -R /home/vps/public_html/installation`
+
+AutoScript installation can found at other repository <a href="http://github.com/vpsiix/AutoScriptDebian">AutoScriptDebian</a>
