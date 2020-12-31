@@ -1,23 +1,20 @@
-OcsPanels
-=========
+# OCS Panel
 Simple and lightweight panel for Reseller SSH based on Webmin API, 100% free.
 
-Features
--------
-* **Sistem Deposit** : Seller cukup Deposit, sudah bisa create Account SSH sendiri.
-* **Remote Webmin** : cukup 1 panel bisa dipakai untuk banyak VPS.
+## Features
 
-Requirements
----------
+* **Deposits system** : Sellers only need to deposits, they can create own SSH Account.
+* **Remote Webmin** : Just 1 panel can be used for many VPS.
 
-##### Hosting
-* PHP versi 5.3.4 keatas.
-* MySQL versi 5.0.0 keatas.
+## Requirements
+
+#### Hosting
+* PHP v5.3.4 above.
+* MySQL v5.0.0 above.
 
 ##### VPS
 * Webmin
-* Perl XML::Parser Module (biasa otomatis terinstall bersama webmin)
+* Perl XML::Parser Module (automatic installed with webmin)
 
-Installation
-------------
-* Debian: https://www.hostingtermurah.net/tutorial-install-ocs-panel-pada-vps/
+## Installations
+Script installation can found at <a href="http://github.com/AutoScriptDebian">AutoScriptDebian</a>
