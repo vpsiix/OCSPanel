@@ -44,4 +44,4 @@ cd
 
 After installation complete, open browser and open **http://your-ip-vps:nginx-port** and complete required database information. For security after the installation process complete delete the **installation** folder, run command : `rm -R /home/vpsiix/public_html/installation`
 
-AutoScript installation can found at other repository <a href="http://github.com/vpsiix/AutoScriptDebian">AutoScriptDebian</a>
+AutoScript installation can found at other repository
